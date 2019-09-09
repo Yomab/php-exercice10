@@ -1,0 +1,12 @@
+.date {
+    color: cyan;
+    font-size: 30px;
+}
+
+.colorBackgroundBody {
+    background-color: grey;
+}
+
+.exerciceConsign {
+    border: 2px black solid;
+}

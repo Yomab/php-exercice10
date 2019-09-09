@@ -1,0 +1,28 @@
+.date {
+    color: cyan;
+    font-size: 30px;
+}
+
+.colorBackgroundBody {
+    background-color: grey;
+}
+
+.exerciceConsign {
+    border: 2px black solid;
+}
+
+option {
+   width: 50px;
+}
+
+p {
+    margin: 0 0 0 0;
+}
+
+span {
+    display: inline-block;
+}
+
+.errorMessage {
+    color: yellow;
+}
